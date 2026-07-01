@@ -1,0 +1,4 @@
+{
+  "trigger_keywords": [],
+  "note": "trigger_keywords 为空列表 [] 时，任意非空材料名称都可作为第一行。"
+}
